@@ -1,4 +1,9 @@
 <?
+/*
+Программа выводит сумму всех четных чисел
+@airoo
+*/
+
 $massiv = array(1,2,3,4,5,6,7,8,9);
 $sum = 0;
 foreach ($massiv as $int_value) {
